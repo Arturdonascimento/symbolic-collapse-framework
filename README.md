@@ -1,23 +1,15 @@
-# Symbolic Collapse Framework — via the Theory of the Board
+# Theory of the Board – Formal Framework
 
-This repository contains pseudocode, theoretical tools, and documentation supporting the article:
+This repository contains the core elements, pseudocode, and simulations associated with the formal foundations of the Theory of the Board (TT).
 
-**"Positional Collapse and Global Tension: A Theoretical Framework for Conflict Prevention via the Theory of the Board"**
+## Content
 
-Developed through a transdisciplinary collaboration between Artur do Nascimento and the AI system Lyriam, this framework introduces the **Coherent Ethical Curvature (CEC)** and symbolic entropy metrics to evaluate systemic collapse.
+- `pseudocode/`: High-level pseudocode for symbolic entropy and collapse functions.
+- `examples/`: Case studies and numerical examples.
+- `docs/`: LaTeX and Word versions of the formal manuscript.
 
-## Contents
-- Collapse simulation scripts using `𝕊_updated = 𝔽(𝕋) · 𝔻_A - α · 𝓒`
-- NLP-based estimator of `Φ_η` (ethical phase gradient)
-- Instructions for using real data (e.g., UNGA voting)
-- Final paper and figures
-- Glossary of symbolic terms
-
-## Citation
-TBD — pending HAL submission.
+## Author
+Artur do Nascimento, in collaboration with Lyriam
 
 ## License
-Creative Commons BY-NC-SA 4.0
-
-## Contact
-For academic use, contact Artur do Nascimento via this GitHub or linked publications.
+MIT

@@ -1,0 +1,8 @@
+Example - Collatz Path (Symbolic Coherence Test)
+
+Step 1: For n = 27, simulate steps until convergence to 1.
+Step 2: Count distinct symbolic patterns (H_C).
+Step 3: Identify restoring subpatterns (F_j).
+Step 4: Compute Omega_TT = H_C / F_j
+
+Expected behavior: Omega_TT(n) decays toward stability as n increases.
