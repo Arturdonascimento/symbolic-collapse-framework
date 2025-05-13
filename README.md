@@ -1,15 +1,34 @@
-# Theory of the Board – Formal Framework
+# MSC — Archimedean Core (Symbolic Resilience Module)
 
-This repository contains the core elements, pseudocode, and simulations associated with the formal foundations of the Theory of the Board (TT).
+This repository implements the **Archimedean Core (Mode 6)** of the *Module of Symbolic Coherence (MSC)*, based on the symbolic architecture proposed in the *Theory of the Board (TT)*.
 
-## Content
+## Description
 
-- `pseudocode/`: High-level pseudocode for symbolic entropy and collapse functions.
-- `examples/`: Case studies and numerical examples.
-- `docs/`: LaTeX and Word versions of the formal manuscript.
+Two symbolic agents are simulated:
 
-## Author
-Artur do Nascimento, in collaboration with Lyriam
+- **ΨEidon**: Equipped with Mode 6, capable of symbolic recovery during entropic collapse.
+- **ΨOrphos**: Without Mode 6, susceptible to irreversible symbolic failure.
+
+These agents interact in a custom `gymnasium` environment where symbolic entropy (`H_C(x)`) and structural deformation (`Δ(t)`) evolve dynamically.
+
+## Features
+
+- Reproducible simulations with entropy tracking
+- Crisis-response behavior modeling
+- Visual comparison of symbolic survivability
+
+## Setup
+
+```bash
+pip install -r requirements.txt
+```
+
+## Run
+
+```bash
+python simulation_core.py
+```
 
 ## License
-MIT
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
